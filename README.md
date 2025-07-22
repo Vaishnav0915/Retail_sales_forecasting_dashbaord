@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project simulates Canadian Tire retail sales data to analyze SKU-level performance, revenue trends, and seasonal demand patterns. The dashboard supports decision-making around inventory planning, product performance, and forecasting future sales.
+This project simulates retail sales data to analyze SKU-level performance, revenue trends, and seasonal demand patterns. The dashboard supports decision-making around inventory planning, product performance, and forecasting future sales.
 
 ---
 
