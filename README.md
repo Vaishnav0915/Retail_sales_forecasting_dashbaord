@@ -53,7 +53,7 @@ This project simulates Canadian Tire retail sales data to analyze SKU-level perf
 
 ## 📸 Sample Dashboard Preview
 
-![Dashboard Overview]([./dashboard_overview.png]
+![Dashboard_overview](./Dashboard_overview.jpg)
 ---
 
 ## 🚀 How to Use
